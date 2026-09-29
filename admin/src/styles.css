@@ -1,0 +1,9 @@
+body { font-family: system-ui, sans-serif; margin: 0; background: #faf7f2; color: #2b2118; }
+nav { display: flex; gap: 16px; padding: 12px 24px; background: #7a4b1e; }
+nav a { color: #fff; text-decoration: none; }
+main { padding: 24px; max-width: 960px; margin: auto; }
+table { width: 100%; border-collapse: collapse; background: #fff; }
+th, td { padding: 8px 12px; border-bottom: 1px solid #eee; text-align: left; }
+button { cursor: pointer; padding: 6px 12px; margin-right: 6px; }
+.cards { display: flex; gap: 16px; }
+.card { background: #fff; padding: 16px 24px; border-radius: 8px; }
